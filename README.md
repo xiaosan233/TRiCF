@@ -1,8 +1,5 @@
-# TRiCF
-**Training :**
-```bash
+# Training
 python train.py
 
-**Evaluation:**
-```bash
+# Evaluation
 python test.py
